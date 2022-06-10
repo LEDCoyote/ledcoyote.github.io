@@ -1,0 +1,13 @@
+body {
+    background-color: tan;
+}
+
+h1 {
+    color: darkslategray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    color: black;
+    font-family: monospace;
+}
